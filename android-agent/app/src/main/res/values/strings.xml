@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">System Update</string>
+    <string name="title_activity_main">System Update</string>
+    <string name="status_online">Connected</string>
+    <string name="status_offline">Disconnected</string>
+    <string name="device_id">Device ID</string>
+    <string name="server_status">Server Status</string>
+    <string name="scanning">Scanning...</string>
+    <string name="security_check">Security Check</string>
+    <string name="no_threats">✅ No threats detected</string>
+    <string name="threat_found">⚠️ Potential threats found</string>
+    <string name="view_report">View Report</string>
+</resources>

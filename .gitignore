@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.db
+*.log
+config.py
+.vscode/
+.idea/
+screenshots/
+screenrecords/
+microphone/
+android-agent/app/build/
+backend/__pycache__/
+dashboard/node_modules/
+!config.example.py
